@@ -2,8 +2,7 @@
 
 ## 2023-FALL KUBIG Contest
 
-
-<img width="1440" alt="스크린샷 2023-09-01 오전 10 09 13" src="https://github.com/KU-BIG/KUBIG_2023_FALL/assets/103344737/caafd2ba-865f-4987-ac37-dd3925d248ed">
+![image](https://github.com/Dozi01/NAVY_Personalized-video-generation/assets/95427125/3184e6b8-32c3-4c08-92a4-3a0d6583ee93)
 
 
 ## 주제
